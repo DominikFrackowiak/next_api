@@ -1,0 +1,21 @@
+[
+	{
+		"id": 1,
+		"name": "Neurosis",
+		"discography": [
+			"Pain of Mind",
+			"Word as Low",
+			"Souls at Zero",
+			"Enemy of the Sun",
+			"Through Silver in Blood",
+			"Times of Grace",
+			"Sovereign",
+			"A Sun That Never Sets"
+		]
+	},
+	{
+		"id": 2,
+		"name": "Brygada Kryzys",
+		"discography": ["Brygada Kryzys", "Cosmopolis"]
+	}
+]
