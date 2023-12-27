@@ -1,9 +1,12 @@
 const getBands = async () => {
-	const res = await fetch('http://localhost:3000/api/bands', {
-		next: {
-			revalidate: 30,
-		},
-	})
+	const res = await fetch(
+		'https://next-api-three-omega.vercel.app/api/bands',
+		{
+			next: {
+				revalidate: 30,
+			},
+		}
+	)
 	return res.json()
 }
 
